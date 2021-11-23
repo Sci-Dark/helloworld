@@ -1,4 +1,5 @@
 # helloworld
 learning with the quickstart
 # EDIT
-<b><em>coolnewupdate</em></b>
+<em>coolnewupdate</em>
+<h3>coolnewheadline</h3>
